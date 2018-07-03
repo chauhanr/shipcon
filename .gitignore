@@ -1,0 +1,8 @@
+### STS ###
+.exe
+.txt
+
+### Folders ###
+pkg/
+bin/
+.idea/
