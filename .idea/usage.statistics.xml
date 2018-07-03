@@ -5,30 +5,33 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="Makefile" value="2" />
-          <entry key="go" value="2" />
+          <entry key="go" value="9" />
+          <entry key="json" value="2" />
           <entry key="md" value="1" />
-          <entry key="proto" value="1" />
+          <entry key="proto" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Go" value="2" />
+          <entry key="Go" value="9" />
+          <entry key="JSON" value="2" />
           <entry key="Markdown" value="1" />
           <entry key="PLAIN_TEXT" value="3" />
+          <entry key="PROTO" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Makefile" value="187" />
-          <entry key="go" value="792" />
-          <entry key="proto" value="239" />
+          <entry key="go" value="2206" />
+          <entry key="proto" value="454" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Go" value="792" />
+          <entry key="Go" value="2206" />
           <entry key="PLAIN_TEXT" value="187" />
-          <entry key="PROTO" value="239" />
+          <entry key="PROTO" value="454" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.go.postfix.template.usages.trigger" />
