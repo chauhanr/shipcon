@@ -4,33 +4,39 @@
     <session id="-1710561722">
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="Makefile" value="2" />
-          <entry key="go" value="9" />
+          <entry key="Dockerfile" value="4" />
+          <entry key="Makefile" value="13" />
+          <entry key="go" value="18" />
           <entry key="json" value="2" />
-          <entry key="md" value="1" />
+          <entry key="md" value="2" />
           <entry key="proto" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Go" value="9" />
+          <entry key="Dockerfile" value="2" />
+          <entry key="Go" value="18" />
           <entry key="JSON" value="2" />
-          <entry key="Markdown" value="1" />
-          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="Markdown" value="2" />
+          <entry key="PLAIN_TEXT" value="16" />
           <entry key="PROTO" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Makefile" value="187" />
-          <entry key="go" value="2206" />
+          <entry key="Dockerfile" value="331" />
+          <entry key="Makefile" value="637" />
+          <entry key="go" value="2679" />
+          <entry key="md" value="541" />
           <entry key="proto" value="454" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Go" value="2206" />
-          <entry key="PLAIN_TEXT" value="187" />
+          <entry key="Dockerfile" value="172" />
+          <entry key="Go" value="2679" />
+          <entry key="Markdown" value="541" />
+          <entry key="PLAIN_TEXT" value="796" />
           <entry key="PROTO" value="454" />
         </counts>
       </usages-collector>
