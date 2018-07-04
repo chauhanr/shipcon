@@ -4,40 +4,40 @@
     <session id="-1710561722">
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="Dockerfile" value="11" />
-          <entry key="Makefile" value="21" />
-          <entry key="go" value="19" />
+          <entry key="Dockerfile" value="16" />
+          <entry key="Makefile" value="40" />
+          <entry key="go" value="26" />
           <entry key="json" value="2" />
           <entry key="md" value="3" />
-          <entry key="proto" value="2" />
+          <entry key="proto" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Dockerfile" value="9" />
-          <entry key="Go" value="19" />
+          <entry key="Dockerfile" value="14" />
+          <entry key="Go" value="26" />
           <entry key="JSON" value="2" />
           <entry key="Markdown" value="3" />
-          <entry key="PLAIN_TEXT" value="24" />
-          <entry key="PROTO" value="1" />
+          <entry key="PLAIN_TEXT" value="43" />
+          <entry key="PROTO" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Dockerfile" value="1725" />
-          <entry key="Makefile" value="675" />
-          <entry key="go" value="2701" />
+          <entry key="Dockerfile" value="1767" />
+          <entry key="Makefile" value="1088" />
+          <entry key="go" value="4277" />
           <entry key="md" value="780" />
-          <entry key="proto" value="454" />
+          <entry key="proto" value="916" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Dockerfile" value="1566" />
-          <entry key="Go" value="2701" />
+          <entry key="Dockerfile" value="1608" />
+          <entry key="Go" value="4277" />
           <entry key="Markdown" value="780" />
-          <entry key="PLAIN_TEXT" value="834" />
-          <entry key="PROTO" value="454" />
+          <entry key="PLAIN_TEXT" value="1247" />
+          <entry key="PROTO" value="916" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.go.postfix.template.usages.trigger" />
