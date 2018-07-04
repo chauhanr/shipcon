@@ -4,7 +4,7 @@ import (
 	pb "shipcon/consignment-service/proto/consignment"
 	"io/ioutil"
 	"encoding/json"
-		"log"
+	"log"
 	"os"
 	"github.com/micro/go-micro/cmd"
 	microclient "github.com/micro/go-micro/client"
