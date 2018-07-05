@@ -51,7 +51,7 @@
         <counts>
           <entry key="Dockerfile" value="33" />
           <entry key="Makefile" value="23" />
-          <entry key="go" value="129" />
+          <entry key="go" value="130" />
           <entry key="proto" value="8" />
           <entry key="yml" value="3" />
         </counts>
@@ -59,7 +59,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Dockerfile" value="33" />
-          <entry key="Go" value="129" />
+          <entry key="Go" value="130" />
           <entry key="PLAIN_TEXT" value="23" />
           <entry key="PROTO" value="8" />
           <entry key="YAML" value="3" />
@@ -69,7 +69,7 @@
         <counts>
           <entry key="Dockerfile" value="349" />
           <entry key="Makefile" value="76" />
-          <entry key="go" value="7155" />
+          <entry key="go" value="7162" />
           <entry key="proto" value="656" />
           <entry key="yml" value="260" />
         </counts>
@@ -77,7 +77,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Dockerfile" value="349" />
-          <entry key="Go" value="7155" />
+          <entry key="Go" value="7162" />
           <entry key="PLAIN_TEXT" value="76" />
           <entry key="PROTO" value="656" />
           <entry key="YAML" value="260" />
