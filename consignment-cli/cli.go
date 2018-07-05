@@ -1,7 +1,7 @@
 package main
 
 import (
-	pb "shipcon/consignment-service/proto/consignment"
+	pb "github.com/chauhanr/shipcon/consignment-service/proto/consignment"
 	"io/ioutil"
 	"encoding/json"
 	"log"
