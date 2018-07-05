@@ -49,40 +49,41 @@
     <session id="-341525958">
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="Dockerfile" value="13" />
-          <entry key="Makefile" value="7" />
-          <entry key="go" value="86" />
-          <entry key="proto" value="2" />
-          <entry key="yml" value="2" />
+          <entry key="Dockerfile" value="33" />
+          <entry key="Makefile" value="23" />
+          <entry key="go" value="129" />
+          <entry key="proto" value="8" />
+          <entry key="yml" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Dockerfile" value="13" />
-          <entry key="Go" value="86" />
-          <entry key="PLAIN_TEXT" value="7" />
-          <entry key="PROTO" value="2" />
-          <entry key="YAML" value="2" />
+          <entry key="Dockerfile" value="33" />
+          <entry key="Go" value="129" />
+          <entry key="PLAIN_TEXT" value="23" />
+          <entry key="PROTO" value="8" />
+          <entry key="YAML" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Dockerfile" value="196" />
-          <entry key="Makefile" value="50" />
-          <entry key="go" value="4173" />
-          <entry key="proto" value="65" />
-          <entry key="yml" value="61" />
+          <entry key="Dockerfile" value="349" />
+          <entry key="Makefile" value="76" />
+          <entry key="go" value="7155" />
+          <entry key="proto" value="656" />
+          <entry key="yml" value="260" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Dockerfile" value="196" />
-          <entry key="Go" value="4173" />
-          <entry key="PLAIN_TEXT" value="50" />
-          <entry key="PROTO" value="65" />
-          <entry key="YAML" value="61" />
+          <entry key="Dockerfile" value="349" />
+          <entry key="Go" value="7155" />
+          <entry key="PLAIN_TEXT" value="76" />
+          <entry key="PROTO" value="656" />
+          <entry key="YAML" value="260" />
         </counts>
       </usages-collector>
+      <usages-collector id="statistics.go.postfix.template.usages.trigger" />
     </session>
   </component>
 </project>
