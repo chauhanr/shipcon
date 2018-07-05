@@ -6,7 +6,7 @@ COPY . .
 
 RUN go get -u github.com/golang/dep/cmd/dep
 RUN dep init && dep ensure
-RUN CGO_ENABLED=0 GOOS=linux go build -o user-service -a -installsuffix cgo main.go repository.go handler.go database.go
+RUN CGO_ENABLED=0 GOOS=linux go build -o user-service -a -installsuffix cgo main.go repository.go handler.go database.go tocken-service.go
 
 FROM debian:latest
 
@@ -14,7 +14,7 @@ FROM debian:latest
 
 RUN mkdir /app
 WORKDIR /app
-#ADD consignment-service /app/consignment-service
+#ADD user-service /app/user-service
 COPY --from=builder /go/src/github.com/chauhanr/shipcon/user-service/user-service .
 
 CMD ["./user-service"]
